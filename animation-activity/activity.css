@@ -9,6 +9,7 @@
   animation-name: middle;
   animation-duration: .1s;
   animation-fill-mode: forwards;
+  background-color: mediumvioletred;
 }
 
 .hamburger:hover > div:nth-child(3){
